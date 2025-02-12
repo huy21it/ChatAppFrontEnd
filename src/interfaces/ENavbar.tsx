@@ -1,0 +1,11 @@
+enum ENavbar {
+  PROFILE = 'PROFILE',
+  CHATS = 'CHAT',
+  GROUPS = 'GROUPS',
+  CONTACTS = 'CONTACTS',
+  SEARCH = 'SEARCH',
+  SETTINGS = 'SETTINGS',
+  NOTIFICATION = 'NOTIFICATION',
+}
+
+export default ENavbar;
